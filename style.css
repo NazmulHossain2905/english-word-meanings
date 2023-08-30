@@ -64,3 +64,15 @@ thead {
 td:first-child {
   max-width: 4rem;
 } */
+
+footer {
+  background-color: #333;
+  padding-block: 1rem;
+  color: #fff;
+  text-align: center;
+}
+
+footer p > a {
+  color: #15c8fe;
+  font-size: 1.3rem;
+}
